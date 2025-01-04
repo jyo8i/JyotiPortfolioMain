@@ -1,2 +1,2 @@
-# JyotiPortfolioMain
-developed by html, css and javascript
+# amaan_shaik
+visit amaanshaik20.netlify.app for the output
